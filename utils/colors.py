@@ -1,0 +1,12 @@
+class Colors:
+    darker_gray = '#404040'
+    dark_gray = '#5D5D5D'
+    gray = '#7C7C7C'
+    light_gray = '#AEAEAE'
+    lighter_gray = '#D7D7D7'
+    lightest_gray = '#F7F7F7'
+    white = '#FFFFFF'
+    black = '#000000'
+    red = '#FF0000'
+    lighter_pink = '#FFEDF9'
+    light_pink = '#FFE7F7'
